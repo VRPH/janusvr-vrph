@@ -1,0 +1,8 @@
+# room_04: Standard Dimensions
+# Note that dimensions are specified in meters as [width x height x depth].
+
+Door: 1.2x2.2
+Doorway: 1.7x2.45x0.5
+Minimum transversible space: 2x2
+Maximum incline: 45 degrees
+Maximum jump height (g = 9.8 m/s^2): 1.28
